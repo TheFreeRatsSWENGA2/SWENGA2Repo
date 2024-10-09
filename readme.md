@@ -18,8 +18,8 @@ flask view_course_staff
 
 
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/uwidcit/flaskmvc)
-<a href="https://render.com/deploy?repo=https://github.com/uwidcit/flaskmvc">
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TheFreeRatsSWENGA2/SWENGA2)
+<a href="https://render.com/deploy?repo=https://github.com/TheFreeRatsSWENGA2/SWENGA2">
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 
